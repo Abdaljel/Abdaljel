@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Abdaljel
+- 👀 I’m interested in technology
+- 🌱 I’m currently learning python
+- 📫 How to reach me
